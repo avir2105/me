@@ -11,7 +11,7 @@ I specialize in **building AI-driven solutions** that enhance businesses, automa
 🔹 **Inference Optimization** – Quantization, distillation, and efficient model deployment  
 🔹 **AI-Driven Business Solutions** – Business process automation, AI-enhanced decision-making  
 🔹 **Deep Learning & Transformers** – NLP, CV, and multi-modal AI applications  
-🔹 **Cloud & MLOps** – Deploying scalable AI using LangChain, GCP, Azure  
+🔹 **Cloud & MLOps** – Deploying scalable AI using LangChain, Azure  
 🔹 **Open Source & AI Tooling** – Actively contributing to AI research & automation tools  
 🔹 **Leadership & Public Speaking** – AI advocacy, community leadership, and mentoring  
 
