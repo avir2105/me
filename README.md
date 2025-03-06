@@ -1,6 +1,6 @@
 # 👋 Hey there! I'm Avinashsingh Rajput  
 
-🚀 **AI Engineer | Generative AI Enthusiast | Open-Source Contributor**  
+🚀 **AI Engineer | Generative AI Enthusiast **  
 
 I specialize in **building AI-driven solutions** that enhance businesses, automate processes, and optimize AI models for real-world applications. Passionate about **Generative AI, fine-tuning LLMs, deep learning, and AI automation**, I continuously explore **transformers, inference techniques, and quantization** for efficient deployments.
 
