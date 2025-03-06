@@ -7,11 +7,11 @@ I specialize in **building AI-driven solutions** that enhance businesses, automa
 ---
 
 ## 🛠️ My Expertise  
-🔹 **Generative AI & LLMs** – Fine-tuning & optimizing models like LLaMA 2, GPT  
+🔹 **Generative AI & LLMs** – Fine-tuning & optimizing open source models like LLaMA 2, GPT  
 🔹 **Inference Optimization** – Quantization, distillation, and efficient model deployment  
 🔹 **AI-Driven Business Solutions** – Business process automation, AI-enhanced decision-making  
 🔹 **Deep Learning & Transformers** – NLP, CV, and multi-modal AI applications  
-🔹 **Cloud & MLOps** – Deploying scalable AI using LangChain, GCP, AWS  
+🔹 **Cloud & MLOps** – Deploying scalable AI using LangChain, GCP, Azure  
 🔹 **Open Source & AI Tooling** – Actively contributing to AI research & automation tools  
 🔹 **Leadership & Public Speaking** – AI advocacy, community leadership, and mentoring  
 
@@ -26,8 +26,8 @@ I specialize in **building AI-driven solutions** that enhance businesses, automa
 ---
 
 ## 📬 Let's Connect!  
-💼 [LinkedIn](https://www.linkedin.com/in/avinashsing-rajput)  
-📂 [GitHub](https://github.com/aviraj2135)  
+💼 [LinkedIn](https://www.linkedin.com/in/avinashsinghrajput21052003/)  
+📂 [GitHub](https://github.com/avir2105)  
 📧 avinashr2105@gmail.com  
 
 💡 **Open to collaborations on AI-driven automation, LLM fine-tuning, and scalable AI solutions. Let’s build the future together!** 🚀  
